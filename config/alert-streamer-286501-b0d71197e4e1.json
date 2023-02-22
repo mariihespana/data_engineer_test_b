@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alert-streamer-286501",
+  "private_key_id": "b0d71197e4e198b5dbf4d5030638569836083c07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwO/1HjDcbWf1r\nqX/BA4pZ+TZh3GbsHcd7HuNAk/xseYQKCWqAWxt3LdMyMOoI6ZpTmelfASMc2I4j\nrvxyUj0W56vRaghcGEn60xUYyVhjCrbnAjh66ESjdDegOzwL7uy1kuYI3GOdJC5j\n9Hl5deu+j/b1AHlH/gF1fsfbO4TUaEGcykXJq0o7z99r2fLGXeHBqQDuCxWc6NFV\n7PDKeOnpgt7qXuX1AhXSlg/z/gIz/qz88S7jsnPoEJySQi3RAgJcgWBCHHJ7f50G\nASauoajHtZxHOBIk8ujZLqKJhd9fg8iwis9V/D0fehlRmGpR2ziGTljcUa2ha7pj\nUAnXDO8FAgMBAAECggEABnSED/lWUWWn7ygbulWnXSlQMSByEqb6lgtpFoX1IoIG\n8JkssfvkUya2DCoXgHESCoriLe0sPJPADRWNQKC7hRnCRN7l5H2tRAc0SB6j4qjT\nTz3ZFMNqNDR/DxrsVaGQQQxa6ass6OYY3udnBaholKfQS2QTjSwEIKoepuyUrnT9\nlEGnBHcb36SinVmlww7ZLi48isg9i9fODBTgxSL0W5qedprlC2IhXbmdhsbtPH37\n8PMPTWN82z6+PMQPrdHSrYe7Er2nu+ycOuaew+RmOsqt4H3D3B5di3/1fmKqfagM\nu84hyEz/Fl50JQe9DDCnrH49JMn2SOvSEKY2bakvAQKBgQDcLFc9sr9mOP1cswGR\nm6hy1ooF8GoxBlxXnQo0Dh5Lv3JeS3sc0zwoEr+GpQj0A83b3zuVdxrfBNAsE88y\nN7OeHo3DWYrP3/W77/kuZSoMgyTcDGL+A8LHuBg2PQPVU2jcEc9It/Af656ya4FR\nMjiGYb8rftJVBy1xvMaEx5KngQKBgQDM6U5eucEJapYfVLtA8DPVuHlI1tVGDV3U\nisUbHVK6C6xbKiEXHNlPt7wrGXrkjV/aqvW4FwhHVRWEVC+kiU8xEX2ZjV0P6N9W\nm2fuomQig0g29dF39hRiaPctSeDOWGeqrQmG5CLlA+p9naNGIpmXoDkMFtWPbiJz\neLQrVShphQKBgEI/GTTYPpy8Uwd8WOF96246PSdSUjFUD57RAovtH5J9FSVoIq/m\novgPxA74QzxglKUugtgTEUO/R/+rKjGa7vGJkfAQViL76Q1WRCyAhelj4EhRdcum\nSAodyzMuoqOiSC/HMA5aQebo10Qp8qwCp11PtdyZeSHaWgMZ4MV84xSBAoGAC+c1\nnT0PIJvncpR6eDA74ptfuEJ6iyI1pCYXgxa1+oa5EWamG3Cakw3qSVqmj+ZCfjJW\nKcZ0vagMou49AkLTrdcFQ8k5cbYmWyKV6//U70hPBppK+7v4vSq5yRC0lWf/RaPd\nnM9d043hrkBc/rL91xgAmFovN7C/IZQOa0H8If0CgYBPLj9Fs91AHVm7El5OKrr/\nYg9lQqq/pGf4vnL6MWwaIo3IBYtmfGhZgb2ywZi7NTHpM9biH8MeiYMa3i4Jb+gD\nfvci1pHfGSuGV6JAPwyQOBjAKK5CKJtBp92jX8Ut0w7fHFmMwI/iuHAOzTQASlls\ncgNW1L+ENGMQgjwsrM1blw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "load-data-boticario@alert-streamer-286501.iam.gserviceaccount.com",
+  "client_id": "102230798223403779936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/load-data-boticario%40alert-streamer-286501.iam.gserviceaccount.com"
+}
